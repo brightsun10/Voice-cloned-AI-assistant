@@ -1,0 +1,13 @@
+speechrecognition 
+pyttsx3 
+pygame 
+gtts 
+librosa 
+soundfile 
+scipy 
+scikit-learn 
+joblib 
+rich 
+colorama 
+requests 
+numpy
