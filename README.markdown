@@ -106,3 +106,7 @@ Contributions are welcome! Please submit pull requests or open issues on the Git
 
 ## Disclaimer
 This project uses free services and local processing. The cloned voice quality may vary based on hardware and sample quality. For professional-grade voice cloning, consider commercial solutions.
+
+## 🙋‍♂️ Author
+
+Made with ❤️ by Nithin P (brightsun10)
