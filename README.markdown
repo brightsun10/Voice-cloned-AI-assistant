@@ -1,4 +1,4 @@
-# Voice Clone Terminal AI Assistant
+# Voice Cloned Terminal AI Assistant
 
 A free, open-source terminal-based AI assistant that clones your voice and responds in your own voice, running completely locally to ensure privacy. No external API keys are required for core functionality.
 
