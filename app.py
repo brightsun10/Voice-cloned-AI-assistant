@@ -664,7 +664,7 @@ class FreeConversationAI:
         """Get response from OpenRouter API with Hugging Face-like features."""
         
         api_url = "https://openrouter.ai/api/v1/chat/completions"
-        api_key = "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"
+        api_key = "YOUR-API-KEY"
         
         if not api_key:
             print("⚠️ No API key found")
@@ -1105,4 +1105,5 @@ def main():
         sys.exit(1)
 
 if __name__ == "__main__":
+
     main()
