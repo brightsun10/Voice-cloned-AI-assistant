@@ -3,14 +3,14 @@
 A free, open-source terminal-based AI assistant that clones your voice and responds in your own voice, running completely locally to ensure privacy. No external API keys are required for core functionality.
 
 ## Features
-- **Voice Cloning**: Record a few samples of your voice to create a personalized voice model.
-- **Speech Recognition**: Use free Google Web Speech API for speech-to-text input.
-- **Text-to-Speech**: Supports multiple TTS methods:
+- **🎤 Voice Cloning**: Record a few samples of your voice to create a personalized voice model.
+- **🗣️ Speech Recognition**: Use free Google Web Speech API for speech-to-text input.
+- **🔊 Text-to-Speech**: Supports multiple TTS methods:
   - Cloned voice (based on your voice samples)
   - Local TTS (pyttsx3)
   - Google TTS (gTTS, free version)
   - Auto-selection of the best available method
-- **AI Conversation**: Powered by local AI or free external APIs:
+- **🤖 AI Conversation**: Powered by local AI or free external APIs:
   - Local responses for basic queries
   - Optional integration with local Ollama or free Hugging Face-like models via OpenRouter
 - **Privacy-Focused**: All voice cloning and processing happens locally, ensuring your voice data stays private.
